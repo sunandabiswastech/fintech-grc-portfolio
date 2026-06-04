@@ -698,6 +698,6 @@ DETECTION
 
 | Version | Date | Author | Changes |
 |---|---|---|---|
-| 1.0 | June 2026 | [Your Name], GRC Analyst | Initial draft |
+| 1.0 | June 2026 | Sunanda Biswas, GRC Analyst | Initial draft |
 
 **Disclaimer:** This document is a fictional portfolio project created for educational and professional development purposes. All company names, regulatory contacts, and financial figures are illustrative. This document does not constitute legal or compliance advice.
