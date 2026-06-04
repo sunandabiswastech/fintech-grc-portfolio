@@ -1,7 +1,7 @@
 # NovaPay Financial Technologies — GRC Portfolio Project
 ### Cloud-Native FinTech Payment Application Security Program
 **Document Classification:** Portfolio / Educational Use
-**Prepared By:** [Your Name], GRC Analyst Candidate
+**Prepared By: Sunanda Biswas, GRC Analyst Candidate
 **Date:** June 2026
 **Version:** 1.0
 
